@@ -9,8 +9,6 @@
 
 - 👯 I’m looking to collaborate on [WTF-Dapp](https://github.com/WTFAcademy/WTF-Dapp) & [Ant Design Web3](https://github.com/ant-design/ant-design-web3)
 
-- 👨‍💻 All of my projects are available at [https://github.com/Likang0122](https://github.com/Likang0122)
-
 - 📫 How to reach me **banlideli@gmail.com**
   
 - 🚀 BUIDL & HODL
