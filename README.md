@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm LiKang</h1>
-<h3 align="center">A passionate frontend developer from China</h3>
+<h3 align="center">A passionate Web3 developer from China</h3>
 
 - 🔭 I’m currently working on [ZAN](https://zan.top)
 
@@ -12,6 +12,8 @@
 - 👨‍💻 All of my projects are available at [https://github.com/Likang0122](https://github.com/Likang0122)
 
 - 📫 How to reach me **banlideli@gmail.com**
+  
+- 🚀 BUIDL & HODL
 
 
 <h3 align="left">Languages and Tools:</h3>
